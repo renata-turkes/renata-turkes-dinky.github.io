@@ -1,13 +1,14 @@
 url: https://renata-turkes.github.io/
 title: Renata Turkeš
-description: renata.turkes  
+description: >-
+renata.turkes  
 @uantwerpen.be
 # description: ![photo](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qHk4EcAAAAJ&citpid=5)
 # title-img: "/avatar-icon.jpg"
 # author: Renata Turkeš
 # avatar: "/avatar-icon.jpg"
 
-# Beautiful Jekyll parameters:
+# Beautiful Jekyll parameters/configuration variables:
 # navbar-links:
 #   About Me: "aboutme"
 #   Resources:
