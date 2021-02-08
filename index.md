@@ -8,3 +8,7 @@ My main research interests lie in the domain of topological data analysis. In 20
 Find me on:
 - [Google Scholar](https://scholar.google.com/citations?user=0qHk4EcAAAAJ&hl=en&oi=sra)
 - [LinkedIn](https://www.linkedin.com/in/renata-turke%C5%A1-409a7863/?originalSubdomain=be)
+
+
+## Research
+| ![turkevs2021noise_image](https://miro.medium.com/max/1960/1*JBArH9ePBjwA8x8EPyFOjQ.png) | Noise robustness of persistent homology on greyscale images, across filtrations and persistence signatures |
