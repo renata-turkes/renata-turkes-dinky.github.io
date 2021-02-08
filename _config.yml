@@ -1,3 +1,29 @@
-title: Renata Turkes
+url: https://renata-turkes.github.io/
+title: Renata Turkeš
+title-img: "/avatar-icon.jpg"
+author: Renata Turkeš
 avatar: "/avatar-icon.jpg"
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
+twitter_username: renataturkes
+github_username: renata-turkes
+
+social-network-links:
+  email: "renata.turkes@uantwerpen.be"
+  facebook: Renata Turkeš
+  github: renata-turkes
+  twitter: renataturkes
+  linkedin: Renata Turkeš
+  google-scholar: Renata Turkeš
+
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
+
 theme: jekyll-theme-dinky
