@@ -1,30 +1,29 @@
 url: https://renata-turkes.github.io/
 title: Renata Turkeš
-description: ![photo](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qHk4EcAAAAJ&citpid=5)
-title-img: "/avatar-icon.jpg"
-author: Renata Turkeš
-avatar: "/avatar-icon.jpg"
+description: renata.turkes@uantwerpen.be
+# description: ![photo](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qHk4EcAAAAJ&citpid=5)
+# title-img: "/avatar-icon.jpg"
+# author: Renata Turkeš
+# avatar: "/avatar-icon.jpg"
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
-twitter_username: renataturkes
-github_username: renata-turkes
-
-social-network-links:
-  email: "renata.turkes@uantwerpen.be"
-  facebook: Renata Turkeš
-  github: renata-turkes
-  twitter: renataturkes
-  linkedin: Renata Turkeš
-  google-scholar: Renata Turkeš
-
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+# Beautiful Jekyll parameters:
+# navbar-links:
+#   About Me: "aboutme"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
+# twitter_username: renataturkes
+# github_username: renata-turkes
+# social-network-links:
+#   email: "renata.turkes@uantwerpen.be"
+#   facebook: Renata Turkeš
+#   github: renata-turkes
+#   twitter: renataturkes
+#   linkedin: Renata Turkeš
+#   google-scholar: Renata Turkeš
+# navbar-img: "/assets/img/bgimage.png"
+# footer-img: "/assets/img/bgimage.png"
+# page-img: "/assets/img/bgimage.png"
 
 theme: jekyll-theme-dinky
