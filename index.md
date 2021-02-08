@@ -14,7 +14,7 @@ Find me on:
 
 <table style="width:100%">
   <tr>
-    <td> <img src="turkevs2021noise_title_image.png" width="100"> </td>
+    <td> <img src="turkevs2021noise_title_image.png" width="200"> </td>
     <td> Noise robustness of persistent homology on greyscale images, across filtrations and persistence signatures <br> Renata Turkeš, Jannes Nys, Tim Verdonck, Steven Latré <br/><br/> [Code](https://github.com/renata-turkes/turkevs2021noise/) - [Data](http://yann.lecun.com/exdb/mnist/) </td>
   </tr>
 </table>
