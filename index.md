@@ -13,7 +13,7 @@ You can reach me at renata.turkes@uantwerpen.be, or find me on:
 <table style="width:100%">
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-         <img src="turkevs2021noise_title_image.png" width="200"> </td>
+         <img src="turkevs2021noise_title_image.png" width="150"> </td>
     <td> <strong> Noise robustness of persistent homology on greyscale images, across filtrations and persistence signatures </strong> <br> 
          Renata Turkeš, Jannes Nys, Tim Verdonck, Steven Latré <br>  
          (in preparation) <br/><br/> 
