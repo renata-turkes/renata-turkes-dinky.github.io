@@ -11,4 +11,4 @@ Find me on:
 
 
 ## Research
-| ![turkevs2021noise_title_image](turkevs2021noise_title_image.png) | Noise robustness of persistent homology on greyscale images, across filtrations and persistence signatures |
+| ![turkevs2021noise_title_image](turkevs2021noise_title_image.png =10x10) | Noise robustness of persistent homology on greyscale images, across filtrations and persistence signatures |
