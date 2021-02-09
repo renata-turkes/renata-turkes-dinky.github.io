@@ -10,7 +10,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
 
 ## Research
 
-<table style="width:100%" class="no-spacing" cellspacing="0">
+<table style="width:100%">
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
       <img src="turkevs2021noise_title_image.png" width="200"> 
@@ -23,6 +23,17 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
       <a href="https://github.com/renata-turkes/turkevs2021noise/">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a> 
     </td>
   </tr>  
+    <tr>
+    <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
+      <img src="turkevs2020meta_title_image.png" width="200"> 
+    </td>
+    <td> 
+      <br>
+      <a href="https://www.sciencedirect.com/science/article/pii/S037722172030936X?via%3Dihub"> <strong> Meta-analysis of metaheuristics: Quantifying the effect of adaptiveness in adaptive large neighborhood search </strong> </a> <br> 
+      Renata Turkeš, Kenneth Sörensen, Lars Magnus Hvattum <br>  
+      <em>European Journal of Operational Research (2020)</em> <br/><br/> 
+      <a href="https://www.sciencedirect.com/science/article/pii/S2352340920314505">Related <i>Data in Brief</i> publication</a> | <a href="https://data.mendeley.com/datasets/h4smx32r4t/3">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2019meta_pres.pdf">Slides</a> | <a href="https://antor.uantwerpen.be/meta-analysis-of-metaheuristics/">Blog</a></td>
+  </tr>   
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
       <img src="turkevs2021matheuristic_title_image.png" width="200"> 
@@ -34,17 +45,6 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
       <em>Journal of Heuristics (2021)</em> <br/><br/> 
       <a href="https://antor.uantwerpen.be/data-used-in-the-paper-a-matheuristic-for-the-pre-positioning-of-emergency-supplies/">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2018matheuristic_pres.pdf">Slides</a>
     </td>
-  </tr>   
-  <tr>
-    <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="turkevs2020meta_title_image.png" width="200"> 
-    </td>
-    <td> 
-      <br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S037722172030936X?via%3Dihub"> <strong> Meta-analysis of metaheuristics: Quantifying the effect of adaptiveness in adaptive large neighborhood search </strong> </a> <br> 
-      Renata Turkeš, Kenneth Sörensen, Lars Magnus Hvattum <br>  
-      <em>European Journal of Operational Research (2020)</em> <br/><br/> 
-      <a href="https://www.sciencedirect.com/science/article/pii/S2352340920314505">Related <i>Data in Brief</i> publication</a> | <a href="https://data.mendeley.com/datasets/h4smx32r4t/3">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2019meta_pres.pdf">Slides</a> | <a href="https://antor.uantwerpen.be/meta-analysis-of-metaheuristics/">Blog</a></td>
   </tr>   
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
