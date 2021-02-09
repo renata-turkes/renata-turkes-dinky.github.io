@@ -28,7 +28,6 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
       <img src="turkevs2021matheuristic_title_image.png" width="200"> 
     </td>
     <td> 
-      <br>
       <strong> A matheuristic for the stochastic facility location problem </strong> <br> 
       Renata Turkeš, Kenneth Sörensen, Daniel Palhazi Cuervo <br>  
       <em>Journal of Heuristics (2021)</em> <br/><br/> 
