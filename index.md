@@ -13,22 +13,61 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
 <table style="width:100%">
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="turkevs2021noise_title_image.png" width="200"> </td>
+      <img src="turkevs2021noise_title_image.png" width="200"> 
+    </td>
     <td> 
       <br>
       <strong> Noise robustness of persistent homology on greyscale images, across filtrations and persistence signatures </strong> <br> 
       Renata Turkeš, Jannes Nys, Tim Verdonck, Steven Latré <br>  
       <i>(in preparation)</i> <br/><br/> 
-      <a href="https://github.com/renata-turkes/turkevs2021noise/">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a> </td>
-   </tr>  
-    <tr>
+      <a href="https://github.com/renata-turkes/turkevs2021noise/">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a> 
+    </td>
+  </tr>  
+  <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="turkevs2020meta_title_image.png" width="200"> </td>
+      <img src="turkevs2021matheuristic_title_image.png" width="200"> 
+    </td>
+    <td> 
+      <br>
+      <strong> A matheuristic for the stochastic facility location problem </strong> <br> 
+      Renata Turkeš, Kenneth Sörensen, Daniel Palhazi Cuervo <br>  
+      <i>Journal of Heuristics</i> <br/><br/> 
+      <a href="https://antor.uantwerpen.be/data-used-in-the-paper-a-matheuristic-for-the-pre-positioning-of-emergency-supplies/">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2018matheuristic_pres.pdf">Slides</a>
+    </td>
+  </tr>   
+  <tr>
+    <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
+      <img src="turkevs2020meta_title_image.png" width="200"> 
+    </td>
     <td> 
       <br>
       <a href="https://www.sciencedirect.com/science/article/pii/S037722172030936X?via%3Dihub"> <strong> Meta-analysis of metaheuristics: Quantifying the effect of adaptiveness in adaptive large neighborhood search </strong> </a> <br> 
       Renata Turkeš, Kenneth Sörensen, Lars Magnus Hvattum <br>  
       <i>European Journal of Operational Research</i> <br/><br/> 
-      <a href="https://www.sciencedirect.com/science/article/pii/S2352340920314505">Related <i>Data in Brief</i> publication</a> | <a href="https://data.mendeley.com/datasets/h4smx32r4t/3">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2019meta_pres.pdf">Slides</a></td>
-   </tr>   
+      <a href="https://www.sciencedirect.com/science/article/pii/S2352340920314505">Related <i>Data in Brief</i> publication</a> | <a href="https://data.mendeley.com/datasets/h4smx32r4t/3">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2019meta_pres.pdf">Slides</a> | <a href="https://antor.uantwerpen.be/meta-analysis-of-metaheuristics/">Blog</a></td>
+  </tr>   
+  <tr>
+    <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
+      <img src="turkevs2019instances_title_image.png" width="200"> 
+    </td>
+    <td> 
+      <br>
+      <a href="https://www.emerald.com/insight/content/doi/10.1108/JHLSCM-02-2018-0016/full/html"> <strong> Instances for the problem of pre-positioning emergency supplies </strong> </a> <br> 
+      Renata Turkeš, Kenneth Sörensen <br>  
+      <i>Journal of Humanitarian Logistics and Supply Chain Management, Vol. 9 No. 2, pp. 172-195</i> <br/><br/> 
+      <a href="https://antor.uantwerpen.be/prepositioning-problem-instances/">Data</a> 
+    </td>
+  </tr> 
+  <tr>
+    <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
+      <img src="turkevs2019pre_title_image.png" width="200"> 
+    </td>
+    <td> 
+      <br>
+      <a href="https://link.springer.com/article/10.1007%2Fs10479-017-2702-1"> <strong> Pre-positioning of emergency supplies: does putting a price on human life help to save lives? </strong> <br> 
+      Renata Turkeš, Daniel Palhazi Cuervo, Kenneth Sörensen <br>  
+      <i>Annals of Operations Research 283, 865–895 (2019)</i> <br/><br/> 
+      <a href="https://antor.uantwerpen.be/data-used-in-the-paper-pre-positioning-of-emergency-supplies-does-putting-a-price-on-human-life-help-to-save-lives/">Data</a> | <a href="https://antor.uantwerpen.be/does-putting-a-price-on-human-life-help-to-save-lives/">Blog</a>
+    </td>
+  </tr>   
 </table>
