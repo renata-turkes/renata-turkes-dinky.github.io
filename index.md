@@ -28,6 +28,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
       <img src="turkevs2021matheuristic_title_image.png" width="200"> 
     </td>
     <td> 
+      <br>
       <strong> A matheuristic for the stochastic facility location problem </strong> <br> 
       Renata Turkeš, Kenneth Sörensen, Daniel Palhazi Cuervo <br>  
       <em>Journal of Heuristics (2021)</em> <br/><br/> 
@@ -39,6 +40,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
       <img src="turkevs2020meta_title_image.png" width="200"> 
     </td>
     <td> 
+      <br>
       <a href="https://www.sciencedirect.com/science/article/pii/S037722172030936X?via%3Dihub"> <strong> Meta-analysis of metaheuristics: Quantifying the effect of adaptiveness in adaptive large neighborhood search </strong> </a> <br> 
       Renata Turkeš, Kenneth Sörensen, Lars Magnus Hvattum <br>  
       <em>European Journal of Operational Research (2020)</em> <br/><br/> 
