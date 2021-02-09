@@ -19,7 +19,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
       <br>
       <strong> Noise robustness of persistent homology on greyscale images, across filtrations and persistence signatures </strong> <br> 
       Renata Turkeš, Jannes Nys, Tim Verdonck, Steven Latré <br>  
-      <i>(in preparation)</i> <br/><br/> 
+      <em>(in preparation)</em> <br/><br/> 
       <a href="https://github.com/renata-turkes/turkevs2021noise/">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a> 
     </td>
   </tr>  
@@ -31,7 +31,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
       <br>
       <strong> A matheuristic for the stochastic facility location problem </strong> <br> 
       Renata Turkeš, Kenneth Sörensen, Daniel Palhazi Cuervo <br>  
-      <i>Journal of Heuristics (2021)</i> <br/><br/> 
+      <em>Journal of Heuristics (2021)</em> <br/><br/> 
       <a href="https://antor.uantwerpen.be/data-used-in-the-paper-a-matheuristic-for-the-pre-positioning-of-emergency-supplies/">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2018matheuristic_pres.pdf">Slides</a>
     </td>
   </tr>   
