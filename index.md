@@ -10,7 +10,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
 
 ## Research
 
-<table style="width:100%">
+<table style="width:100%" class="no-spacing" cellspacing="0">
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
       <img src="turkevs2021noise_title_image.png" width="200"> 
