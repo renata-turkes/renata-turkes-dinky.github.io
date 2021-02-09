@@ -18,7 +18,17 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
       <br>
       <strong> Noise robustness of persistent homology on greyscale images, across filtrations and persistence signatures </strong> <br> 
       Renata Turkeš, Jannes Nys, Tim Verdonck, Steven Latré <br>  
-      (in preparation) <br/><br/> 
+      <i>(in preparation)</i> <br/><br/> 
       <a href="https://github.com/renata-turkes/turkevs2021noise/">Code</a> | <a href="http://yann.lecun.com/exdb/mnist/">Data</a> </td>
-   </tr>
+   </tr>  
+    <tr>
+    <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
+      <img src="turkevs2020meta_title_image.png" width="200"> </td>
+    <td> 
+      <br>
+      <a href="https://www.sciencedirect.com/science/article/pii/S037722172030936X?via%3Dihub"> <strong> Meta-analysis of metaheuristics: Quantifying the effect of adaptiveness in adaptive large neighborhood search </strong> </a> <br> 
+      Renata Turkeš, Kenneth Sörensen, Lars Magnus Hvattum <br>  
+      <i>European Journal of Operational Research</i> <br/><br/> 
+      <a href="https://www.sciencedirect.com/science/article/pii/S2352340920314505">Related <i>Data in Brief</i> publication</a> | <a href="https://data.mendeley.com/datasets/h4smx32r4t/3">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2019meta_pres.pdf">Slides</a></td>
+   </tr>   
 </table>
