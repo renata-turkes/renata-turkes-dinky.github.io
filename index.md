@@ -63,7 +63,6 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
       <img src="turkevs2019pre_title_image.png" width="200"> 
     </td>
     <td> 
-      <br>
       <a href="https://link.springer.com/article/10.1007%2Fs10479-017-2702-1"> <strong> Pre-positioning of emergency supplies: does putting a price on human life help to save lives? </strong> </a> <br> 
       Renata Turkeš, Daniel Palhazi Cuervo, Kenneth Sörensen <br>  
       <i>Annals of Operations Research 283, 865–895 (2019)</i> <br/><br/> 
