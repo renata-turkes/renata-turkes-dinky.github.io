@@ -40,7 +40,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
     </td>
     <td> 
       <br>
-      <strong> A matheuristic for the stochastic facility location problem </strong> <br> 
+      <a href="https://link.springer.com/article/10.1007/s10732-021-09468-y"> <strong> A matheuristic for the stochastic facility location problem </strong> </a> <br> 
       Renata Turkeš, Kenneth Sörensen, Daniel Palhazi Cuervo <br>  
       <em>Journal of Heuristics (2021)</em> <br/><br/> 
       <a href="https://antor.uantwerpen.be/data-used-in-the-paper-a-matheuristic-for-the-pre-positioning-of-emergency-supplies/">Data</a> | <a href="https://antor.uantwerpen.be/wp-content/papercite-data/pdf/turkevs2018matheuristic_pres.pdf">Slides</a>
