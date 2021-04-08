@@ -15,7 +15,7 @@ for other datasets of greyscale images, types of noise and/or classifiers.
 <br>
 <br>
 Since the runtime of some parts of the notebook is quite extensive, the folder also includes 
-the most important variables from our experiment on 1000 MNIST images. First of all, both non-noisy and noisy data is stored:
+the most important variables from our experiment on 1000 MNIST images, in variables.zip. First of all, both non-noisy and noisy data is stored:
 - data_trnsf.pkl: images
 - data_filt_trnsf.pkl: filtration function values 
 - data_sign_homdim_filt_trnsf.pkl: PH across persistence signatures, homological dimensions and filtrations  
