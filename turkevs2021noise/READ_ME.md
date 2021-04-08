@@ -1,7 +1,7 @@
-Noise robustness of persistent homology on greyscale images, across filtrations and signatures
-Supplementary material
+Noise robustness of persistent homology on greyscale images, across filtrations and signatures  
+Supplementary material  
 
-Author: Renata Turkes
+Author: Renata Turkes  
 
 
 The folder turkevs2021noise contains the code used for computational experiments on the MNIST 
