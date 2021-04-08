@@ -6,7 +6,7 @@ Author: Renata Turkes
 <br>
 <br>
 The folder turkevs2021noise contains the code used for computational experiments on the MNIST 
-dataset of handwritten digits in the aforementioned paper: <b>turkevs2021noise.ipynb<b>
+dataset of handwritten digits in the aforementioned paper: <b>turkevs2021noise.ipynb</b>
 
 The code allows to replicate our study, or to easily investigate the noise robustness of PH with 
 different filtrations and persistence signatures, and their parameters and corresponding metric, 
@@ -14,10 +14,8 @@ for other datasets of greyscale images, types of noise and/or classifiers.
 <br>
 <br>
 <br>
-Since the runtime of some parts of the notebook is quite extensive, the folder also includes
-the most important variables from our experiment on 1000 MNIST images. 
-
-First of all, both non-noisy and noisy data is stored:
+Since the runtime of some parts of the notebook is quite extensive, the folder also includes 
+the most important variables from our experiment on 1000 MNIST images. First of all, both non-noisy and noisy data is stored:
 - data_trnsf.pkl: images
 - data_filt_trnsf.pkl: filtration function values 
 - data_sign_homdim_filt_trnsf.pkl: PH across persistence signatures, homological dimensions and filtrations  
