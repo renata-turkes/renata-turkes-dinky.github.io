@@ -13,7 +13,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
 <table style="width:100%">
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="turkevs2021noise_title_image.png" width="200"> 
+      <img src="title_images/turkevs2021noise_title_image.png" width="200"> 
     </td>
     <td> 
       <br>
@@ -25,7 +25,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
   </tr>  
     <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="turkevs2020meta_title_image.png" width="200"> 
+      <img src="title_images/turkevs2020meta_title_image.png" width="200"> 
     </td>
     <td> 
       <br>
@@ -36,7 +36,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
   </tr>   
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="turkevs2021matheuristic_title_image.png" width="200"> 
+      <img src="title_images/turkevs2021matheuristic_title_image.png" width="200"> 
     </td>
     <td> 
       <br>
@@ -48,7 +48,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
   </tr>   
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="turkevs2019instances_title_image.png" width="200"> 
+      <img src="title_images/turkevs2019instances_title_image.png" width="200"> 
     </td>
     <td> 
       <a href="https://www.emerald.com/insight/content/doi/10.1108/JHLSCM-02-2018-0016/full/html"> <strong> Instances for the problem of pre-positioning emergency supplies </strong> </a> <br> 
@@ -59,7 +59,7 @@ You can reach me at <renata.turkes@uantwerpen.be>, or find me on:
   </tr> 
   <tr>
     <td style="padding-left: 0px; cursor: pointer; vertical-align: top;"> 
-      <img src="turkevs2019pre_title_image.png" width="200"> 
+      <img src="title_images/turkevs2019pre_title_image.png" width="200"> 
     </td>
     <td> 
       <a href="https://link.springer.com/article/10.1007%2Fs10479-017-2702-1"> <strong> Pre-positioning of emergency supplies: does putting a price on human life help to save lives? </strong> </a> <br> 
